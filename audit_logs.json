@@ -1,0 +1,15 @@
+[
+  {
+    "id": "audit_1788413087479_057ro",
+    "timestamp": "2026-09-03T05:24:47.459Z",
+    "formattedTimeSL": "Sep 03, 2026, 10:54:47 AM",
+    "ipAddress": "127.0.0.1",
+    "userEmail": "sampathub89@gmail.com",
+    "isPrimaryAdmin": true,
+    "action": "Database Reports Loaded / Viewed",
+    "resource": "/api/admin/reports",
+    "status": "AUTHORIZED_PRIMARY",
+    "details": "Database list query: sync=false, all=true, dateRange=start_to_end",
+    "userAgent": "Unknown Device / Browser"
+  }
+]
